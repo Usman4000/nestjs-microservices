@@ -1,7 +1,9 @@
-
 ## Description
 
 [NestJs-MicroServices] communcation with rabit mqtt
+
+![NestJs-MicroServices](~/rabitmqtt-nestjs-microservices-communication.png)
+
 
 ## Run
 
