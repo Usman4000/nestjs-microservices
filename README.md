@@ -2,7 +2,7 @@
 
 [NestJs-MicroServices] communcation with rabit mqtt
 
-![NestJs-MicroServices](~/rabitmqtt-nestjs-microservices-communication.png)
+![NestJs-MicroServices](https://gitlab.com/Usman209/nestjs-microservices/-/blob/main/rabitmqtt-nestjs-microservices-communication.png)
 
 
 ## Run
